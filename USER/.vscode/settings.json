@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "usart.h": "c",
+        "bsp_key.h": "c",
+        "bsp_exti.h": "c"
+    }
+}
